@@ -89,8 +89,10 @@ I configured and verified internet connectivity in Kali Linux to ensure that the
 After completing the lab configuration, I created a snapshot of my Kali Linux virtual machine to preserve the configured environment for future use.
 
 ![image_alt]()
-# LAB VERFICATION
 
+
+
+# LAB VERFICATION
 After completing the lab setup, I verified the main components of my cybersecurity lab according to the Networkwalks Week 1 instructions.
 
  Step-1: Verify VirtualBox and Kali Linux
@@ -101,6 +103,7 @@ I checked that Oracle VirtualBox was installed and that my Kali Linux virtual ma
 
 I checked the VirtualBox network settings to confirm that the NAT Network was configured using the required subnet, `10.0.0.0/24`.
 
+
  Step-3: Verify Kali Linux IP Configuration
 
 I checked the Kali Linux network configuration to confirm that the IP address was set according to the lab requirements: `10.0.0.2/24`.
@@ -109,9 +112,12 @@ I checked the Kali Linux network configuration to confirm that the IP address wa
 
 I checked the internet connectivity of my Kali Linux virtual machine to confirm that it had internet access as required by the lab instructions.
 
+
  Step-5: Verify Virtual Machine Settings
 
 I checked that Shared Clipboard, file Drag'n'Drop, and the shared folder were configured according to the lab requirements.
+
+
 
 Step-6: Verify Virtual Machine Snapshot
 
