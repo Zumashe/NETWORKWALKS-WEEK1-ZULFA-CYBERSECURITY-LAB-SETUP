@@ -88,7 +88,7 @@ I configured and verified internet connectivity in Kali Linux to ensure that the
 
 After completing the lab configuration, I created a snapshot of my Kali Linux virtual machine to preserve the configured environment for future use.
 
-![image_alt]()
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/Snapshot.png?raw=true)
 
 
 
