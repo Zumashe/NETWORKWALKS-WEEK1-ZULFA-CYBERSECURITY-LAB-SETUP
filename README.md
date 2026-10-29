@@ -54,7 +54,7 @@ I installed Oracle VirtualBox on my Windows computer to create and manage the vi
 
 I created a NAT Network named CyberLab in VirtualBox and configured the network subnet to 10.0.0.0/24.
 
-
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/Natnetwork.png?raw=true)
 
 
 
@@ -62,7 +62,7 @@ Step-4: Download and Import Kali Linux
 
 I downloaded and imported the Kali Linux virtual machine into Oracle VirtualBox to use it as my primary cybersecurity testing machine.
 
-
+![image_alt]()
 
 Step-5: Configure Kali Linux IP Address
 
