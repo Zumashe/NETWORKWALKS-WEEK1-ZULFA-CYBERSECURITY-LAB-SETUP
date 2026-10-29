@@ -40,7 +40,7 @@ The lab will support future practical exercises by allowing additional virtual m
 
 I installed 7-Zip to prepare for handling compressed files required during the lab setup.
 
-
+![image alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/7-zip.png?raw=true)
 
 
 
