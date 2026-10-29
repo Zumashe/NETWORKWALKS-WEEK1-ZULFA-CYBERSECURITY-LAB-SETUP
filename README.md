@@ -148,7 +148,9 @@ This laboratory is intended strictly for educational purposes only. All activiti
 # TOOLS AND RESOURCES
 
 7-Zip:https://7-zip.org/download.html
+
 VirtualBox: https://virtualbox.org/wiki/Downloads
+
 Kali Linux: https://kali.org/get-kali
 
 
