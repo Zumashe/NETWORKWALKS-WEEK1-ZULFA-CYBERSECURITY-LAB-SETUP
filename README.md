@@ -62,29 +62,33 @@ Step-4: Download and Import Kali Linux
 
 I downloaded and imported the Kali Linux virtual machine into Oracle VirtualBox to use it as my primary cybersecurity testing machine.
 
-![image_alt]()
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/kali%20linux.png?raw=true)
 
 Step-5: Configure Kali Linux IP Address
 
 I configured the Kali Linux network settings according to the lab requirements, using the IP address "10.0.0.2/24".
-
+![image_alt]()
 
 Step-6: Configure Virtual Machine Settings
 
-I enabled Shared Clipboard and Drag and Drop in VirtualBox. I also configured the shared folder using the host computer's `/downloads` folder as required.
+I enabled Shared Clipboard and Drag and Drop in VirtualBox. I also configured the shared folder using the host computer's "/downloads" folder as required.
 
+![image_alt]()
+![image_alt]()
+![image_alt]()
+![image_alt]()
 
 Step-7: Configure Internet Connectivity
 
 I configured and verified internet connectivity in Kali Linux to ensure that the virtual machine could access the internet as required.
 
-
+![image_alt]()
 
  Step-8: Create a Virtual Machine Snapshot
 
 After completing the lab configuration, I created a snapshot of my Kali Linux virtual machine to preserve the configured environment for future use.
 
-
+![image_alt]()
 # LAB VERFICATION
 
 After completing the lab setup, I verified the main components of my cybersecurity lab according to the Networkwalks Week 1 instructions.
