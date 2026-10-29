@@ -47,7 +47,7 @@ I installed 7-Zip to prepare for handling compressed files required during the l
  Step-2: Install Oracle VirtualBox
 
 I installed Oracle VirtualBox on my Windows computer to create and manage the virtual machine for my cybersecurity lab.
-
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/oracle%20virtual%20box.png?raw=true)
 
 
  Step-3: Create a NAT Network
