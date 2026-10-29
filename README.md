@@ -80,7 +80,7 @@ Step-7: Configure Internet Connectivity
 
 I configured and verified internet connectivity in Kali Linux to ensure that the virtual machine could access the internet as required.
 
-![image_alt]()
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/Screenshot_2026-10-27_23-23-43.png?raw=true)
 
  Step-8: Create a Virtual Machine Snapshot
 
