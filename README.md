@@ -73,10 +73,8 @@ Step-6: Configure Virtual Machine Settings
 
 I enabled Shared Clipboard and Drag and Drop in VirtualBox. I also configured the shared folder using the host computer's "/downloads" folder as required.
 
-![image_alt]()
-![image_alt]()
-![image_alt]()
-![image_alt]()
+![image_alt](https://github.com/Zumashe/NETWORKWALKS-WEEK1-ZULFA-CYBERSECURITY-LAB-SETUP/blob/main/shared%20clipboard%20and%20Drag%20ana%20Drop.png?raw=true)
+
 
 Step-7: Configure Internet Connectivity
 
