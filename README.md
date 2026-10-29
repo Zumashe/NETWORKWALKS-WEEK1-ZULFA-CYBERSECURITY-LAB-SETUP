@@ -67,7 +67,7 @@ I downloaded and imported the Kali Linux virtual machine into Oracle VirtualBox 
 Step-5: Configure Kali Linux IP Address
 
 I configured the Kali Linux network settings according to the lab requirements, using the IP address "10.0.0.2/24".
-![image_alt]()
+
 
 Step-6: Configure Virtual Machine Settings
 
@@ -150,3 +150,8 @@ This laboratory is intended strictly for educational purposes only. All activiti
 7-Zip:https://7-zip.org/download.html
 VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
+
+
+# AUTHOR
+ZULFA MAHMOUD IDD Networkwalks
+linkedin:  https://www.linkedin.com/in/zulfa-mahmoud-a81623365
