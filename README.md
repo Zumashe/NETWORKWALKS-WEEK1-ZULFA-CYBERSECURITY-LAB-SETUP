@@ -65,13 +65,12 @@ I downloaded and imported the Kali Linux virtual machine into Oracle VirtualBox 
 
 Step-5: Configure Kali Linux IP Address
 
-I configured the Kali Linux network settings according to the lab requirements, using the IP address `10.0.0.2/24`.
-
+I configured the Kali Linux network settings according to the lab requirements, using the IP address "10.0.0.2/24".
 
 
 Step-6: Configure Virtual Machine Settings
 
-I enabled Shared Clipboard and Drag'n'Drop in VirtualBox. I also configured the shared folder using the host computer's `/downloads` folder as required.
+I enabled Shared Clipboard and Drag and Drop in VirtualBox. I also configured the shared folder using the host computer's `/downloads` folder as required.
 
 
 Step-7: Configure Internet Connectivity
